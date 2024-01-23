@@ -18,7 +18,7 @@ Tech skills:
 
 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/feliaguirre7/)
-📧 [felys.aaa@gmail.com](mailto:felys.aaa@gmail.com)
+📧 [fely_s.a@hotmail.com](mailto:fely_s.a@hotmail.com)
 🌐 [GitHub](https://github.com/FeliAguirre7)
 
 My function:
