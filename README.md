@@ -1,7 +1,13 @@
-![Alt text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamduc29tYzBseWpscW5wb3N0MHBleWV5bzRlc3Mxbmw4ZnlucGh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g0qpWxb4pKYuIjMcq0/giphy.gif)
+<div>
+    <h1>Hi < Developers /> 👋, I'm Felipe Aguirre</h1>
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamduc29tYzBseWpscW5wb3N0MHBleWV5bzRlc3Mxbmw4ZnlucGh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g0qpWxb4pKYuIjMcq0/giphy.gif" width="400px"/>
+</h1>
 
 
-Hi < Developers /> 👋, I'm Felipe Aguirre
+
 
 I'm a Full Stack Web Developer, born on March 7, 2001, in Santiago Del Estero, a city in northern Argentina. My heart beats for the arts, and now I'm on an exciting journey exploring the world of programming to infuse my creativity with technology. Combining my love for artistic expression with the logic and innovation of programming, I graduated from the SoyHenry bootcamp, equipped with skills in JavaScript, React, Redux, Sequelize, Express, PostgreSQL, and more.
 
