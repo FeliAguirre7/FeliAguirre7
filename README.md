@@ -17,13 +17,14 @@ If you have any questions or would like to discuss further, feel free to reach o
 💛 I'm a proactive, creative, optimistic, dedicated, decisive, and perfectionist individual.
 
 Tech skills:
-◾ JavaScript
-◾ Node.js
-◾ React
-◾ Redux
-◾ Express
-◾ Sequelize
-◾ PostgreSQL
+◾ ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+◾ ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+◾ ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+◾ ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
+◾ ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
+◾ [Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)
+◾ [PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+◾ [TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 
 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/feliaguirre7/)
