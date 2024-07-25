@@ -23,17 +23,24 @@ Tech skills:
 ◾ ![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge)
 ◾ ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge)
 ◾ <h1> <img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
+◾<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+◾<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
 </h1>
 
 
 
 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/feliaguirre7/)
-📧 [fely_s.a@hotmail.com](mailto:fely_s.a@hotmail.com)
-🌐 [GitHub](https://github.com/FeliAguirre7)
-
+<p>
+  <a href="https://www.linkedin.com/in/feliaguirre7/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:fely_s.a@hotmail.com">
+    📧 [fely_s.a@hotmail.com](mailto:fely_s.a@hotmail.com)
+  </a>
+  <a href="https://github.com/FeliAguirre7">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge"/>
+  </a>
+</p>
 My function:
 ```javascript
 const me = new Person();
