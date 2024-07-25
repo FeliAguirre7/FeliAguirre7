@@ -34,13 +34,15 @@ Connect with me:
   <a href="https://www.linkedin.com/in/feliaguirre7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:fely_s.a@hotmail.com">
-    📧 [fely_s.a@hotmail.com](mailto:fely_s.a@hotmail.com)
-  </a>
   <a href="https://github.com/FeliAguirre7">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Badge"/>
   </a>
+  <a href="mailto:fely_s.a@hotmail.com">
+    📧 [fely_s.a@hotmail.com]
+  </a>
 </p>
+
+
 My function:
 ```javascript
 const me = new Person();
