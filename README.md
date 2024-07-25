@@ -1,3 +1,5 @@
+<iframe src="https://giphy.com/embed/g0qpWxb4pKYuIjMcq0" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/g0qpWxb4pKYuIjMcq0">via GIPHY</a></p>
+
 Hi < Developers /> 👋, I'm Felipe Aguirre
 
 I'm a Full Stack Web Developer, born on March 7, 2001, in Santiago Del Estero, a city in northern Argentina. My heart beats for the arts, and now I'm on an exciting journey exploring the world of programming to infuse my creativity with technology. Combining my love for artistic expression with the logic and innovation of programming, I graduated from the SoyHenry bootcamp, equipped with skills in JavaScript, React, Redux, Sequelize, Express, PostgreSQL, and more.
